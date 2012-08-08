@@ -31,3 +31,6 @@ This property is of a required type and can be a trial key obtained from a below
 "zend_order_number" this property is Zend Server Order number which is provided with Zend Server License. 
 Property type: String
 This property is of a required type and can be a trial key obtained from a below URL listed or you current Zend Server license.
+
+Trial URL:
+http://www.zend.com/products/server/license
