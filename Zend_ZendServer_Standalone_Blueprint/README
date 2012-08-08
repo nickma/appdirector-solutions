@@ -2,21 +2,7 @@ Before you start the Zend Server (standalone) or Zend Server with Magento (Stand
 
 For trial license request open the following link:http://www.zend.com/products/server/license
 
-
-To add Zend Server (standalone) blue print use the following steps:
-
-Catalog item:
-1.Create a new catalog item and call it Zend Server PHP App Server.
-2.Enter properties from zendserver56-properties.pdf. 
-3.Use zendserver56-configure.sh for configuration script.
-4.Use zendserver56-install.sh for installation script.  
-
-Blueprint
-5.Create a new Application. 
-6.On the blueprint canvas drag a logical template to the CentOS56 64bit 1.0.0 or CentOS56 32bit 1.0.0
-7.Drag Zend Server PHP App Server service to the template from step #6
-
-8.Deploy to your cloud provider.
+Please refer to ZendServerPHPApplicationServerStandalone.pdf for blueprint information.
 
 After the successful deployment Zend Server UI will be available at ports 10081 and 10082 for additional customization of your PHP settings.
 
