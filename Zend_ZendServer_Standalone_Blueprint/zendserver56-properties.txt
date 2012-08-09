@@ -15,7 +15,7 @@ This property is of a required type and should be adequate length is the UI port
 "zend_zscm_host" property is not required and is used in Clustered setups only.
 Property type: String
 
-"zendnode_is_node" property has to be set to 1.  
+"zendnode_is_node" property has to be set to 0.  
 Property type: String
 
 "zend_api_key_name" property is not required and is used in Clustered setups only.
