@@ -12,14 +12,23 @@ Property type: Content
 
 "zscm_db_user" property is MySQL user that will be used by Zend Server Cluster Manager and Zend Server nodes to communicate to Zend Cluster DB. Identified by "zscm_db_password" property
 
-"zendmanager_order_number"
+"zendmanager_order_number" property is the ZSCM Order number. 
+
 "zend_node_ui_pass"
 "zendmanager_db_port"
+
+"zend_order_number" property is Zend Server PHP Application License ,not cluster manager.
+
+"db_root_passowrd" property is MySQL Database administrative password. This password is used during the installation or upgrade of Zend Server Cluster. 
+
 "zend_api_key_name"
-"zend_order_number"
-"db_root_passowrd"
-"zend_api_key"
+
+"zend_api_key" 
+
 "zendmanager_db_host"
+
 "zendmanager_ui_pass"
+
 "db_root_username"
+
 "zend_license_key"
