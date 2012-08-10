@@ -6,9 +6,12 @@ Property type: String
 Default value :https://${darwin.server.ip}:8443/darwin/conf/darwin_global.conf
 Property type: Content
 
-"zendmanager_license_key"
-"zscm_db_password"
-"zscm_db_user"
+"zendmanager_license_key" 
+
+"zscm_db_password" property is MySQL password for Zend Cluster DB User, this is not the administration password.
+
+"zscm_db_user" property is MySQL user that will be used by Zend Server Cluster Manager and Zend Server nodes to communicate to Zend Cluster DB. Identified by "zscm_db_password" property
+
 "zendmanager_order_number"
 "zend_node_ui_pass"
 "zendmanager_db_port"
