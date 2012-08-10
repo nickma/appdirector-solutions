@@ -6,17 +6,17 @@ Property type: String
 Default value :https://${darwin.server.ip}:8443/darwin/conf/darwin_global.conf
 Property type: Content
 
-zendmanager_license_key
-zscm_db_password
-zscm_db_user
-zendmanager_order_number
-zend_node_ui_pass
-zendmanager_db_port
-zend_api_key_name
-zend_order_number
-db_root_passowrd
-zend_api_key
-zendmanager_db_host
-zendmanager_ui_pass
-db_root_username
-zend_license_key
+"zendmanager_license_key"
+"zscm_db_password"
+"zscm_db_user"
+"zendmanager_order_number"
+"zend_node_ui_pass"
+"zendmanager_db_port"
+"zend_api_key_name"
+"zend_order_number"
+"db_root_passowrd"
+"zend_api_key"
+"zendmanager_db_host"
+"zendmanager_ui_pass"
+"db_root_username"
+"zend_license_key"
