@@ -21,13 +21,13 @@ Property type: Content
 
 "db_root_passowrd" property is MySQL Database administrative password. This password is used during the installation or upgrade of Zend Server Cluster. 
 
-"zend_api_key_name"
+"zend_api_key_name" property 
 
-"zend_api_key" 
+"zend_api_key" property is API key required by nodes to be able to communicate to Cluster Manager
 
-"zendmanager_db_host"
+"zendmanager_db_host" property is the address of MySQL Database Server that will be used to store Zend Cluster Databases. 
 
-"zendmanager_ui_pass"
+"zendmanager_ui_pass" property is Zend Cluster Manager UI Password.  
 
 "db_root_username"
 
