@@ -7,6 +7,9 @@ Please refer to ZendServerPHPApplicationServerStandalone.pdf for blueprint infor
 After the successful deployment Zend Server UI will be available at ports 10081 and 10082.
 You can make additional customization of your PHP settings though the UI.
 
+Zend Server documentation can be found at the following link:
+http://files.zend.com/help/Zend-Server/zend-server.htm 
+
 Zend API reference information can be found at the following link:
 http://files.zend.com/help/Zend-Server/zend-server.htm#web_api_reference_guide.htm
 
