@@ -1,12 +1,12 @@
-[zs]: https://raw.github.com/vmware-applicationdirector/solutions-import-beta/weblogic_cluster/wlinstaller.png 
-[zs_key]: https://raw.github.com/vmware-applicationdirector/solutions-import-beta/weblogic_cluster/wl_so.png 
+[zs_lic]: https://raw.github.com/nickma/appdirector-solutions/master/Zend_ZendServer_Clustered_Beta/zs_installer.png 
+[zs_order]: https://raw.github.com/vmware-applicationdirector/solutions-import-beta/weblogic_cluster/wl_so.png 
 
 ## Success
 Your application has been successfully imported and ready to go but first there are a few final steps you need to follow before you can perform a deployment.
 
 ### Next Steps
 1. In Zend Server Service, you will need to ensure that you have configured the **zend_license_key** , **zend_license_key** properties to match your current or trial license key and order number. 
-[![Zend Server Installer][wl]][wl]
+[![Zend Server Installer][zs_lic]][zs_lic]
 
 2.
 2. You will need to configure the **mod_wl_so** content property in the Apache script as displayed to point to where you have it located. This can be obtained as an Oracle download from their site. http://www.oracle.com/technetwork/middleware/ias/downloads/wls-plugins-096117.html
