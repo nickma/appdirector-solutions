@@ -1,0 +1,21 @@
+ {
+    "vmware":{
+        "config":{
+            "version":1.0
+        },
+        "applications":{
+            "applicationDirectorWebImport":{
+            "exportFileName":"ClusteredZend6.0-beta.xml",
+            "exportedFileReadme":"ClusteredZend6.0-beta.xml.readme",
+            "importSectionHeader":"Zend Server Cluster",
+            "exportedWithAppDVersion":5.0,
+            "optional":{
+                "nextStepsMarkdownFile":"ClusteredZend6.0-beta.xml.md",
+                "enableConsoleLogging":true,
+                "exportedFileErrorReadme":"ClusteredZend6.0-beta.xml.error.readme"
+                }
+            }
+        }
+    }
+ }
+
