@@ -5,14 +5,14 @@
         },
         "applications":{
             "applicationDirectorWebImport":{
-            "exportFileName":"ClusteredZend6.0-beta.xml",
-            "exportedFileReadme":"ClusteredZend6.0-beta.xml.readme",
+            "exportFileName":"ClusteredZendServer-6.xml",
+            "exportedFileReadme":"ClusteredZendServer-6.xml.readme",
             "importSectionHeader":"Zend Server Cluster",
             "exportedWithAppDVersion":5.0,
             "optional":{
-                "nextStepsMarkdownFile":"ClusteredZend6.0-beta.xml.md",
+                "nextStepsMarkdownFile":"ClusteredZendServer-6.xml.md",
                 "enableConsoleLogging":true,
-                "exportedFileErrorReadme":"ClusteredZend6.0-beta.xml.error.readme"
+                "exportedFileErrorReadme":"ClusteredZendServer-6.xml.error.readme"
                 }
             }
         }
